@@ -1,0 +1,11 @@
+INFORME DE PROCESAMIENTO DE VIDEO
+=============================================
+Video: video-gato-1245.mp4
+Resolucion original: 1080 x 1920
+FPS originales: 29.97
+Duracion estimada: 20.49 s
+Fotogramas leidos: 614
+Fotogramas guardados: 11
+FPS promedio de procesamiento: 93.65
+Tiempo total de ejecucion: 25.02 s
+Intervalo de guardado: 2.0 s
